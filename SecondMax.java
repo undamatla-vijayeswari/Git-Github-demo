@@ -3,7 +3,7 @@ import java.lang.Integer;
 
 public class SecondMax{
     public static void main(String[] args){
-
+        System.out.println("2nd max");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int a[] = new int[n];
